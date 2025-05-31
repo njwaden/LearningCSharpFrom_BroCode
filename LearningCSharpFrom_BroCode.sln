@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_LogicalOperators&&", "14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_WhileLoops", "15_WhileLoops\15_WhileLoops.csproj", "{6CEBB690-77F3-4D3D-98C5-B1988B2DFA1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_ForLoops", "16_ForLoops\16_ForLoops.csproj", "{12080BA3-EA5C-4065-81CA-AF84717DB552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6CEBB690-77F3-4D3D-98C5-B1988B2DFA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CEBB690-77F3-4D3D-98C5-B1988B2DFA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CEBB690-77F3-4D3D-98C5-B1988B2DFA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12080BA3-EA5C-4065-81CA-AF84717DB552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12080BA3-EA5C-4065-81CA-AF84717DB552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12080BA3-EA5C-4065-81CA-AF84717DB552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12080BA3-EA5C-4065-81CA-AF84717DB552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
