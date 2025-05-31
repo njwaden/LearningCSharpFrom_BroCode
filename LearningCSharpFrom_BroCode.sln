@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_RandomNumbers", "09_Rand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_HypotenuseCalculatorProgram", "10_HypotenuseCalculatorProgram\10_HypotenuseCalculatorProgram.csproj", "{0EFDBFF0-EEF9-493A-8688-74C4C69F0A8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_StringMethods", "11_StringMethods\11_StringMethods.csproj", "{C6C6C9EB-C816-4EC1-9443-B1A70E9C7E1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0EFDBFF0-EEF9-493A-8688-74C4C69F0A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EFDBFF0-EEF9-493A-8688-74C4C69F0A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EFDBFF0-EEF9-493A-8688-74C4C69F0A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C6C9EB-C816-4EC1-9443-B1A70E9C7E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C6C9EB-C816-4EC1-9443-B1A70E9C7E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C6C9EB-C816-4EC1-9443-B1A70E9C7E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C6C9EB-C816-4EC1-9443-B1A70E9C7E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
