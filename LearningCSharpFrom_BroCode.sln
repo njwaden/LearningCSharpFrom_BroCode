@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_NestedLoops", "17_Nested
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_NumberGuessingGame", "18_NumberGuessingGame\18_NumberGuessingGame.csproj", "{D748960F-7B80-4500-BAF1-3CE5E7AD1191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Rock-Paper-ScissorGame", "19_Rock-Paper-ScissorGame\19_Rock-Paper-ScissorGame.csproj", "{C1311942-D9DA-4F5F-8976-A12437E2A27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{D748960F-7B80-4500-BAF1-3CE5E7AD1191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D748960F-7B80-4500-BAF1-3CE5E7AD1191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D748960F-7B80-4500-BAF1-3CE5E7AD1191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1311942-D9DA-4F5F-8976-A12437E2A27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1311942-D9DA-4F5F-8976-A12437E2A27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1311942-D9DA-4F5F-8976-A12437E2A27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1311942-D9DA-4F5F-8976-A12437E2A27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
