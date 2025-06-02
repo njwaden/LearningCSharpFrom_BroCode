@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_Constructors", "33_Const
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_Static", "34_Static\34_Static.csproj", "{F81E6C9B-7292-4037-8B5B-75DB54DF4C47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_OverloadedConstructors", "35_OverloadedConstructors\35_OverloadedConstructors.csproj", "{28568412-1FFF-4BD5-9D30-465541861EAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{F81E6C9B-7292-4037-8B5B-75DB54DF4C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F81E6C9B-7292-4037-8B5B-75DB54DF4C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F81E6C9B-7292-4037-8B5B-75DB54DF4C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28568412-1FFF-4BD5-9D30-465541861EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28568412-1FFF-4BD5-9D30-465541861EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28568412-1FFF-4BD5-9D30-465541861EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28568412-1FFF-4BD5-9D30-465541861EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
