@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_StringInterpolation", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_MultidimensionalArrays", "30_MultidimensionalArrays\30_MultidimensionalArrays.csproj", "{78FD34A1-9554-4EF0-AD38-60874FE11472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_Classes", "31_Classes\31_Classes.csproj", "{601C8BD0-713B-42CB-9379-161BE2B0E50B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{78FD34A1-9554-4EF0-AD38-60874FE11472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78FD34A1-9554-4EF0-AD38-60874FE11472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78FD34A1-9554-4EF0-AD38-60874FE11472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601C8BD0-713B-42CB-9379-161BE2B0E50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601C8BD0-713B-42CB-9379-161BE2B0E50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601C8BD0-713B-42CB-9379-161BE2B0E50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601C8BD0-713B-42CB-9379-161BE2B0E50B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
