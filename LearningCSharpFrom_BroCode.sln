@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45_ListOfObjects", "45_List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46_Getters&Setters", "46_Getters&Setters\46_Getters&Setters.csproj", "{F713D932-DB2D-4A71-B95A-942A13271834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_AutoImplementedProperties", "47_AutoImplementedProperties\47_AutoImplementedProperties.csproj", "{EBF73FBC-4428-4B3D-A3B6-24B2B35340D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{F713D932-DB2D-4A71-B95A-942A13271834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F713D932-DB2D-4A71-B95A-942A13271834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F713D932-DB2D-4A71-B95A-942A13271834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF73FBC-4428-4B3D-A3B6-24B2B35340D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF73FBC-4428-4B3D-A3B6-24B2B35340D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF73FBC-4428-4B3D-A3B6-24B2B35340D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF73FBC-4428-4B3D-A3B6-24B2B35340D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
